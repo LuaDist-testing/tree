@@ -1,12 +1,21 @@
+-- This file was automatically generated for the LuaDist project.
+
 -- tree.lua, Lua representation of trees with edge lengths
 -- Copyright (C) 2015 Boris Nagaev
 -- See the LICENSE file for terms of use.
 
 package = "tree"
-version = "dev-1"
+version = "1.1.0-1"
+-- LuaDist source
 source = {
-    url = "git://github.com/starius/tree.lua.git"
+  tag = "1.1.0-1",
+  url = "git://github.com/LuaDist-testing/tree.git"
 }
+-- Original source
+-- source = {
+--     url = "git://github.com/starius/tree.lua.git",
+--     tag = "1.1.0",
+-- }
 description = {
     summary = "Lua representation of trees with edge lengths",
     homepage = "https://github.com/starius/tree.lua",
